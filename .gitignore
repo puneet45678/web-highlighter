@@ -1,0 +1,22 @@
+# Node dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+
+# Editor directories and system files
+.vscode/
+.idea/
+.DS_Store
+
+# Coverage & caches
+coverage/
+.cache/
+
+# Build output (uncomment if you don't want to commit bundles)
+# dist/
